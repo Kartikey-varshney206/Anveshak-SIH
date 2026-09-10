@@ -1,0 +1,25 @@
+vehicle_id,registration_number,make_model,vehicle_type,color,registered_owner_id
+VEH-001,MH-04-CD-8819,Mahindra Bolero Pickup,Commercial Carrier,White,P002
+VEH-002,MH-02-EF-9921,Hyundai Creta,SUV,Phantom Black,P017
+VEH-003,DL-01-AB-3301,Honda City,Sedan,Silver,P023
+VEH-004,MH-01-XY-5529,Tata Ace,Light Commercial,Blue,P003
+VEH-005,HR-26-ZZ-6629,Toyota Fortuner,SUV,Pearl White,P024
+VEH-006,MH-08-AZ-5246,Tata Nexon,Automobile,Grey,P050
+VEH-007,MH-09-AZ-8939,Tata Nexon,Automobile,Grey,P029
+VEH-008,MH-02-AZ-5681,Tata Nexon,Automobile,Grey,P022
+VEH-009,MH-06-AZ-9849,Maruti Swift,Automobile,Silver,P010
+VEH-010,MH-04-AZ-7275,Tata Nexon,Automobile,Silver,P005
+VEH-011,MH-07-AZ-7678,Kia Seltos,Automobile,Black,P027
+VEH-012,MH-01-AZ-4388,Mahindra Scorpio,Automobile,Black,P050
+VEH-013,MH-10-AZ-1320,Mahindra Scorpio,Automobile,Black,P001
+VEH-014,MH-06-AZ-5892,Mahindra Scorpio,Automobile,Black,P035
+VEH-015,MH-12-AZ-9947,Tata Nexon,Automobile,Black,P015
+VEH-016,MH-05-AZ-8140,Mahindra Scorpio,Automobile,White,P025
+VEH-017,MH-06-AZ-7624,Tata Nexon,Automobile,Black,P009
+VEH-018,MH-10-AZ-9751,Maruti Swift,Automobile,Black,P038
+VEH-019,MH-10-AZ-1444,Maruti Swift,Automobile,Black,P009
+VEH-020,MH-08-AZ-3977,Maruti Swift,Automobile,Grey,P025
+VEH-021,MH-06-AZ-4467,Mahindra Scorpio,Automobile,Grey,P022
+VEH-022,MH-07-AZ-5558,Mahindra Scorpio,Automobile,Grey,P054
+VEH-023,MH-02-AZ-8705,Maruti Swift,Automobile,White,P023
+VEH-024,MH-04-AZ-2124,Maruti Swift,Automobile,White,P016

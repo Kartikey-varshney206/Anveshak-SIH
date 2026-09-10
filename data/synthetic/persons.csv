@@ -1,0 +1,55 @@
+person_id,full_name,alias,risk_category,occupation,dob,national_id,notes
+P001,Ravi Kumar,The Handler,High Risk,Logistics Broker,1982-04-12,NAT-99281,Primary coordinator for maritime contraband.
+P002,Arjun Singh,Driver,Medium Risk,Transport Driver,1989-11-23,NAT-44102,Intercepted driving carrier vehicle MH-04-CD-8819.
+P003,Deepak Verma,Courier,Medium Risk,Dockworker,1991-02-15,NAT-88319,Assists in offloading container shipments.
+P004,Manish Gupta,Cashier,Medium Risk,Hawala Agent,1978-08-30,NAT-11029,Distributes cash disbursements at dockside.
+P005,Suresh Nair,Customs Clerk,High Risk,Port Inspector,1975-06-19,NAT-55291,Facilitates clearance stamps without physical inspection.
+P017,Priya Sharma,Cipher,Critical Risk,FinTech Consultant,1988-09-14,NAT-77182,CRITICAL BRIDGE: Links maritime smuggling (FIR-1024) to cyber extortion & money laundering (FIR-1098).
+P023,Sameer Khan,Ghost,High Risk,Software Developer,1993-01-08,NAT-33019,Lead technical operator for ransomware extortion campaign.
+P024,John Mathew,Director,High Risk,Corporate Director,1980-07-21,NAT-66291,Manages shell entities including Zenith Global Solutions.
+P025,Rohit Deshmukh,Crypto Mule,Medium Risk,Accountant,1994-05-18,NAT-22910,Converts extortion proceeds into shell banking accounts.
+P031,Vikram Rathore,Captain,High Risk,Vessel Master,1972-12-05,NAT-99014,Navigates coastal dhow routes for gold deliveries.
+P040,Karan Patel,Fixer,Medium Risk,Real Estate Agent,1985-03-29,NAT-88192,Leases tactical safehouses and storage units.
+P012,Operative P012,Alias_P012,Standard,Driver,1980-12-09,NAT-42098,Network operative recorded under regional surveillance.
+P013,Operative P013,Alias_P013,Low Risk,Trader,1981-11-24,NAT-81482,Network operative recorded under regional surveillance.
+P014,Operative P014,Alias_P014,Low Risk,Clerk,1986-01-01,NAT-22280,Network operative recorded under regional surveillance.
+P015,Operative P015,Alias_P015,Low Risk,Trader,1988-10-01,NAT-83563,Network operative recorded under regional surveillance.
+P016,Operative P016,Alias_P016,Low Risk,Clerk,1986-04-15,NAT-87236,Network operative recorded under regional surveillance.
+P018,Operative P018,Alias_P018,Medium Risk,Driver,1982-12-14,NAT-54597,Network operative recorded under regional surveillance.
+P019,Operative P019,Alias_P019,Medium Risk,Trader,1983-06-04,NAT-22156,Network operative recorded under regional surveillance.
+P020,Operative P020,Alias_P020,Medium Risk,Driver,1985-06-20,NAT-44671,Network operative recorded under regional surveillance.
+P021,Operative P021,Alias_P021,Low Risk,Consultant,1988-02-13,NAT-20328,Network operative recorded under regional surveillance.
+P022,Operative P022,Alias_P022,Standard,Technician,1989-06-19,NAT-35203,Network operative recorded under regional surveillance.
+P026,Operative P026,Alias_P026,Standard,Driver,1980-11-08,NAT-47930,Network operative recorded under regional surveillance.
+P027,Operative P027,Alias_P027,Low Risk,Trader,1981-07-09,NAT-69429,Network operative recorded under regional surveillance.
+P028,Operative P028,Alias_P028,Standard,Technician,1982-06-12,NAT-37460,Network operative recorded under regional surveillance.
+P029,Operative P029,Alias_P029,Standard,Technician,1981-10-21,NAT-32431,Network operative recorded under regional surveillance.
+P030,Operative P030,Alias_P030,Standard,Trader,1982-08-13,NAT-45382,Network operative recorded under regional surveillance.
+P032,Operative P032,Alias_P032,Standard,Clerk,1983-11-11,NAT-17331,Network operative recorded under regional surveillance.
+P033,Operative P033,Alias_P033,Low Risk,Driver,1985-07-09,NAT-18675,Network operative recorded under regional surveillance.
+P034,Operative P034,Alias_P034,Low Risk,Clerk,1985-04-21,NAT-75435,Network operative recorded under regional surveillance.
+P035,Operative P035,Alias_P035,Medium Risk,Consultant,1982-05-05,NAT-42325,Network operative recorded under regional surveillance.
+P036,Operative P036,Alias_P036,Standard,Clerk,1988-05-24,NAT-86622,Network operative recorded under regional surveillance.
+P037,Operative P037,Alias_P037,Medium Risk,Clerk,1986-06-08,NAT-28131,Network operative recorded under regional surveillance.
+P038,Operative P038,Alias_P038,Standard,Consultant,1981-01-28,NAT-24371,Network operative recorded under regional surveillance.
+P039,Operative P039,Alias_P039,Low Risk,Trader,1986-10-03,NAT-60432,Network operative recorded under regional surveillance.
+P041,Operative P041,Alias_P041,Medium Risk,Clerk,1987-09-09,NAT-82512,Network operative recorded under regional surveillance.
+P042,Operative P042,Alias_P042,Low Risk,Driver,1988-05-25,NAT-94012,Network operative recorded under regional surveillance.
+P043,Operative P043,Alias_P043,Medium Risk,Driver,1984-07-06,NAT-69470,Network operative recorded under regional surveillance.
+P044,Operative P044,Alias_P044,Low Risk,Technician,1988-03-17,NAT-23947,Network operative recorded under regional surveillance.
+P045,Operative P045,Alias_P045,Standard,Technician,1988-10-07,NAT-30032,Network operative recorded under regional surveillance.
+P046,Operative P046,Alias_P046,Medium Risk,Trader,1988-09-01,NAT-88504,Network operative recorded under regional surveillance.
+P047,Operative P047,Alias_P047,Medium Risk,Consultant,1980-02-12,NAT-50306,Network operative recorded under regional surveillance.
+P048,Operative P048,Alias_P048,Low Risk,Driver,1983-10-03,NAT-21226,Network operative recorded under regional surveillance.
+P049,Operative P049,Alias_P049,Standard,Consultant,1981-09-25,NAT-26483,Network operative recorded under regional surveillance.
+P050,Operative P050,Alias_P050,Low Risk,Consultant,1988-03-09,NAT-79163,Network operative recorded under regional surveillance.
+P051,Operative P051,Alias_P051,Standard,Consultant,1983-09-25,NAT-36365,Network operative recorded under regional surveillance.
+P052,Operative P052,Alias_P052,Standard,Technician,1986-11-21,NAT-58944,Network operative recorded under regional surveillance.
+P053,Operative P053,Alias_P053,Medium Risk,Clerk,1987-02-08,NAT-39451,Network operative recorded under regional surveillance.
+P054,Operative P054,Alias_P054,Low Risk,Technician,1980-10-18,NAT-40161,Network operative recorded under regional surveillance.
+P055,Operative P055,Alias_P055,Standard,Trader,1980-02-23,NAT-92719,Network operative recorded under regional surveillance.
+P056,Operative P056,Alias_P056,Low Risk,Trader,1981-01-28,NAT-53309,Network operative recorded under regional surveillance.
+P057,Operative P057,Alias_P057,Low Risk,Clerk,1983-05-22,NAT-73624,Network operative recorded under regional surveillance.
+P058,Operative P058,Alias_P058,Low Risk,Clerk,1982-12-19,NAT-85525,Network operative recorded under regional surveillance.
+P059,Operative P059,Alias_P059,Medium Risk,Trader,1987-07-07,NAT-22363,Network operative recorded under regional surveillance.
+P060,Operative P060,Alias_P060,Low Risk,Consultant,1985-07-14,NAT-71213,Network operative recorded under regional surveillance.

@@ -1,0 +1,4 @@
+record_id,person_id,offense_type,sections,court_status,year
+CRIM-001,P001,Customs Smuggling,Sec 135 Customs Act,Bail Granted,2021
+CRIM-002,P002,Contraband Transportation,Sec 132 Customs Act,Convicted,2019
+CRIM-003,P031,Maritime Maritime Violations,Merchant Shipping Act Sec 334,Charge-sheeted,2023

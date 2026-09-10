@@ -1,0 +1,5 @@
+event_id,case_id,event_title,timestamp,location_id,description
+EVT-1024-01,FIR-1024,Intercept of Carrier Vehicle MH-04-CD-8819,2026-05-14 04:30:00,LOC-001,Vehicle intercepted carrying 48kg concealed bullion.
+EVT-1024-02,FIR-1024,Raid on Warehouse 4 Storage Unit,2026-05-14 11:00:00,LOC-004,Found custom machinery packing crates matching shipping manifest.
+EVT-1098-01,FIR-1098,Extortion Demand Notice Received,2026-05-17 09:15:00,LOC-019,Ransomware encryption key offer sent from ProtonMail domain.
+EVT-1098-02,FIR-1098,Inter-Bank Wire Transfer TX-004 Executed,2026-05-20 14:40:00,LOC-019,"RTGS wire of Rs 24,00,000 from ACC-9921 to ACC-2005."

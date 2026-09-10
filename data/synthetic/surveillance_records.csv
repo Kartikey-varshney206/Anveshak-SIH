@@ -1,0 +1,4 @@
+surveillance_id,target_entity_id,location_id,vehicle_id,timestamp,officer_notes,case_id
+SURV-001,P001,LOC-004,VEH-001,2026-05-12 20:30:00,P001 observed supervising crate unloading at Warehouse 4.,FIR-1024
+SURV-002,P017,LOC-004,VEH-002,2026-05-13 22:15:00,"P017 arrived in black Creta MH-02-EF-9921, handed sealed briefcase to P001.",FIR-1024 / FIR-1098
+SURV-003,P023,LOC-019,VEH-003,2026-05-18 18:00:00,P023 accessed server room in Cyber City Tower C.,FIR-1098

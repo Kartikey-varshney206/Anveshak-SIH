@@ -1,0 +1,7 @@
+location_id,name,location_type,address,city,latitude,longitude,risk_level
+LOC-001,West Port Container Terminal B,Port Facility,"Dock 4, JNPT Corridor, Navi Mumbai",Navi Mumbai,18.9498,72.9511,High
+LOC-004,Warehouse 4 (Dockland Industrial Estate),Storage Facility,"Plot 18, Dockland Estate, Cotton Green",Mumbai,18.9872,72.8519,Critical
+LOC-012,MG Road Safehouse,Residential Unit,"Flat 402, Royal Palms, 104 MG Road",Pune,18.5204,73.8567,High
+LOC-019,Cyber City Tech Park Tower C,Commercial Office,"8th Floor, DLF Cyber City Tower C",Gurugram,28.4950,77.0895,High
+LOC-025,State Highway 9 Checkpoint,Transit Checkpoint,"Toll Plaza Km 42, State Highway 9",Alibaug,18.6582,72.8710,Medium
+LOC-030,South Coast Cargo Anchorage,Maritime Anchorage,Outer Anchorage Sector 3,Ratnagiri,16.9902,73.2810,High
