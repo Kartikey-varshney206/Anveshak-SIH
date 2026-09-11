@@ -143,5 +143,5 @@ Frontend will be accessible at `http://localhost:5173`.
 
 ## 6. Responsible AI Principles
 
-CrimeGraph AI is strictly an **investigation-support system**. It **never** asserts guilt, labels individuals as "criminals", or recommends punitive actions. All findings are labeled as *Investigative Leads*, *Potential Relationships*, or *High-Connectivity Entities* requiring authorized human review.
+CrimeGraph AI is strictly an **investigation-support system**. It never asserts guilt, labels individuals as "criminals", or recommends punitive actions. All findings are labeled as *Investigative Leads*, *Potential Relationships*, or *High-Connectivity Entities* requiring authorized human review.
 
